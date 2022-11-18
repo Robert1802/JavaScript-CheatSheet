@@ -65,6 +65,7 @@ Math.log2(8);
 Math.log10(1000);
 
 // -------------------------------- Summary
+
 // JavaScript Math Methods
 abs(x)	        // Returns the absolute value of x
 acos(x)	        // Returns the arccosine of x, in radians
