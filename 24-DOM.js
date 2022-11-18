@@ -41,6 +41,7 @@
     getAttributeNS() // Returns the string value of an attribute with the namespace and name supplied.
     getAttributeNode() // Returns the attribute node supplied.
     getAttributeNodeNS() // Returns the attribute node for the specified namespace and name for the attribute.
+    getElementById() // Returns an element with a specified value
     getElementsByTagName() // Returns a list of all child elements whose tag name is supplied.
     getElementsByTagNameNS() // Returns a live HTMLCollection of items belonging to the provided namespace with a certain tag name.
     hasAttribute() // If an element has any attributes, it returns true; otherwise, it returns false.
@@ -50,3 +51,33 @@
     setAttributeNode() // Sets or modifies an attribute node.
     setAttributeNodeNS() // Sets a new namespaced attribute node to an element with setAttributeNodeNS()
 
+// Input Events
+    onblur // When a user leaves an input field
+    onchange // When a user changes the content of an input field
+    onchange // When a user selects a dropdown value
+    onfocus // When input text is selected
+    onselect // When user input text is selected
+    onsubmit // When a user clicks the submit button
+    onreset // When a user clicks the reset button
+    onkeydown // When a user is pressing/holding down a key
+    onkeypress // When user is pressing/holding down a key
+    onkeyup // When the user releases a key
+    
+// Mouse Events
+    onmouseover / onmousedown // When the mouse passes over an element
+    onmousedown / onmouseup // When pressing/releasing a mouse button
+    onmousedown // When mouse is clicked: Alert which element
+    onmousedown // When mouse is clicked: Alert which button
+    onmousemove / onmouseout // When moving the mouse pointer over/out of an image
+    onmouseover/ onmouseout // When moving the mouse over/out of an image
+
+// Click Events
+    onclick // When button is clicked
+    ondblclick // When a text is double-clicked
+
+// Load Events
+    onload // When the page has been loaded
+    onload // When the image has been loaded
+    onerror // When an error occurs when loading an image
+    onunload // When the browser closes the document
+    onresize // When the browser window is resized
