@@ -4,9 +4,9 @@ const array_name = [item1, item2, "..."];
 
 // You can also create an array, and then provide the elements:
 const cars = [];
-cars[0]= "Saab";
-cars[1]= "Volvo";
-cars[2]= "BMW";
+cars[0] = "Saab";
+cars[1] = "Volvo";
+cars[2] = "BMW";
 
 // Create Array as an Object using new
 const cars2 = new Array("Saab", "Volvo", "BMW");
