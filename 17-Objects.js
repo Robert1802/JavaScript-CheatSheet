@@ -4,7 +4,6 @@
 // JavaScript variables can also contain many values.
 // Objects are variables too. But objects can contain many values.
 // Object values are written as name : value pairs (name and value separated by a colon).
-// Example
 let person1 = {
     firstName:"John",
     lastName:"Doe",
@@ -15,7 +14,6 @@ let person1 = {
 
 // Using the JavaScript Keyword new
 // The following example create a new JavaScript object using new Object(), and then adds 4 properties:
-// Example
 const person2 = new Object();
 person2.firstName = "John";
 person2.lastName = "Doe";
@@ -43,7 +41,6 @@ for (let variable in object) {
 
 // The block of code inside of the for...in loop will be executed once for each property.
 // Looping through the properties of an object:
-// Example
 const person3 = {
   fname:" John",
   lname:" Doe",

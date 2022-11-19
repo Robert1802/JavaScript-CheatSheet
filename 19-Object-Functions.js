@@ -1,4 +1,4 @@
-// Functions
+// Object Functions
 
 // Object Native Functions
 const obj = {

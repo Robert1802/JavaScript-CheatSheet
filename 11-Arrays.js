@@ -19,7 +19,7 @@ let car = cars[0]; // Saab
 // Changing an Array Element
 // This statement changes the value of the first element in cars:
 const cars = ["Saab", "Volvo", "BMW"];
-cars[0] = "Opel"; // Opel
+cars[0] = "Opel"; // Opel,Volvo,BMW
 
 // Access the Full Array
 // With JavaScript, the full array can be accessed by referring to the array name:

@@ -1,4 +1,4 @@
-// Creation
+// Object Creation
 // Diferent ways to create objects
 
 // Object Literal
