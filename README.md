@@ -31,3 +31,4 @@ Hare you will have a list of concepts to choose from:
 - [26-Async-Asynchronous](https://github.com/Robert1802/JavaScript-CheatSheet/blob/master/26-Async-Asynchronous.js)
 - [27-Async-Promise](https://github.com/Robert1802/JavaScript-CheatSheet/blob/master/27-Async-Promise.js)
 - [28-Async-Async-Await](https://github.com/Robert1802/JavaScript-CheatSheet/blob/master/28-Async-Async-Await.js)
+- [29-Async-Promises-Examples](https://github.com/Robert1802/JavaScript-CheatSheet/blob/master/29-Async-Promises-Examples.js)
