@@ -15,6 +15,7 @@ let length = textForLenght.length; //26
 // JavaScript counts positions from zero. First position is 0. Second position is 1.
 let textForSlice = "Apple, Banana, Kiwi";
 let partOfSlice = textForSlice.slice(7, 13); // Banana
+let  withoutTheFirstElement = textForSlice(1); // Banana, Kiwi;
 
 // String substring() - is similar to slice(). The difference is that start and end values less than 0 are treated as 0 in substring()
 let strForSubstring = "Apple, Banana, Kiwi";
